@@ -2,7 +2,7 @@
 A Flutter replica of the [Lovable.dev](https://lovable.dev) homepage video.
 
 ## Demo
-| Youtube | My Version |
+| Original | Implementation |
 |---------|------------|
 | ![Original Version](assets/original.gif) | ![My Version](assets/implementationgif.gif) |
 
